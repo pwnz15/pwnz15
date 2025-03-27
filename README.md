@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pwnz15/pwnz15/output/snake.svg" alt="Snake animation" />
 
 ###
