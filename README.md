@@ -47,7 +47,3 @@
 <img src="https://raw.githubusercontent.com/pwnz15/pwnz15/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
